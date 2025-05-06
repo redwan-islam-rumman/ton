@@ -18,7 +18,7 @@
   <a href="https://t.me/toncoin">
     <img src="https://img.shields.io/badge/TON%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
   </a>
-  <a href="https://t.me/tonblockchain">
+  <a href="https://t.me/protectronnews">
     <img src="https://img.shields.io/badge/TON%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
   </a>
   <a href="https://t.me/tondev_eng">
