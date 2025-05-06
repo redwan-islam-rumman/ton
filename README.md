@@ -15,7 +15,7 @@
   <a href="https://tonresear.ch">
     <img src="https://img.shields.io/badge/TON%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray" alt="Ton Research">
   </a>
-  <a href="https://t.me/toncoin">
+  <a href="https://t.me/protectronnews">
     <img src="https://img.shields.io/badge/TON%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
   </a>
   <a href="https://t.me/protectronnews">
